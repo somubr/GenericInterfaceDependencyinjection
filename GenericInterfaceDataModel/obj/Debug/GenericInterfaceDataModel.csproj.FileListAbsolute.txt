@@ -1,0 +1,2 @@
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\GenericInterfaceDependencyInjection\GenericInterfaceDataModel\bin\Debug\GenericInterfaceDataModel.dll
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\GenericInterfaceDependencyInjection\GenericInterfaceDataModel\bin\Debug\GenericInterfaceDataModel.pdb
